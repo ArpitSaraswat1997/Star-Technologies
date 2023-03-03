@@ -1,0 +1,14 @@
+.projects{
+    text-align: center;
+    padding-top: 50px;
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+gap: 30px;
+  
+}
+.data{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 100px;
+
+    text-align: center;
+}

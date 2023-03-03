@@ -1,0 +1,94 @@
+.horizontal-line{
+   
+    width: 20%;
+    margin: auto;
+    color: grey;
+    margin-top: 40px;
+}
+
+.call-back{
+    width: 40%;
+    margin: auto;
+    margin-top: 2%;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3rem;
+    font-weight: lighter;
+
+}
+.text-form{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.text-form input{
+    margin-top: 6%;
+    height: 30px;
+    border-radius: 15px;
+    width: 20%;
+    border: 1px solid gray;
+    padding: 5px 5px 5px 10px;
+    font-size: larger;
+}
+
+
+.submit-btn{
+    display: flex;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 15px;
+    padding: 10px;
+    width: 10%;
+  border: 1px solid grey;
+
+  justify-content: center;
+}
+
+.horizontal-line2{
+    width: 100%;
+    margin-top: 5%;
+}
+
+.part-5 img{
+    width: 70px;
+    margin-top: 85px;
+}
+
+.footer-main{
+    display: flex;
+    margin-left: 30px;
+ 
+   
+} 
+.enquiry{
+    margin-right: 100px;
+}
+
+.main{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.number{
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.footer-main1{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 30px;
+ 
+   
+} 
+.enquiry1{
+    margin-right: 100px;
+}
+.number1{
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+.corporate{
+    margin-left: 55px;
+}

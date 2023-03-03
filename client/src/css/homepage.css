@@ -1,0 +1,126 @@
+*{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}.homepage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-right:2% ;
+
+   
+}
+.image1{
+  
+    width: 70%;
+    margin-right: 10%;
+    margin-top: 5%;
+  
+
+}
+
+
+h2{
+    position: relative;
+    left: 5%;
+    margin-top: 26%;
+    width: 10%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.part2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.para{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-top: 20%;
+    font-size: smaller;
+    margin-left: 10%;
+   
+    
+}
+.para p{
+    margin-top: -1px;
+    color: grey;
+}
+.the-aravallis{
+    margin-bottom: 5%;
+    font-weight: lighter;
+}
+/* span{
+    color: grey;
+} */
+.knowmore-btn{
+    border-radius: 20px;
+    margin-top: 30px;
+    color: grey;
+    background-color: white;
+    padding: 6px;
+    border: 1px solid gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.newLine{
+    display: flex;
+    flex-direction: row;
+}
+.line{
+    
+    border: 5px solid goldenrod;
+    margin-top: 25%;
+    width: 0px;
+    height: 50px;
+    color: goldenrod;
+    
+    
+    
+    
+}
+
+.part3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.para3{
+    margin-top: 5%;
+    margin-left: 4%;
+}
+.part3-Data{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: -8%;
+}
+.deliverd{
+    padding-top: 10%;
+   
+    margin-bottom:20% ;
+}
+.diplomatic-green{
+    font-weight: lighter;
+
+}
+.Para-part3{
+    color: grey;
+}
+
+.allProject{
+    position: absolute;
+    border-radius: 8px;
+    padding: 5px;
+    left: 50%;
+    margin-top: 5%;
+    border: 1px solid grey;
+
+}
+
+.part-4 img{
+    margin-top: 10%;
+    width: 100%;
+
+}

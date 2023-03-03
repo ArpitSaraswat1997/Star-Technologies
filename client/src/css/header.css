@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}.header img{
+    width: 8%;
+    margin-left: 2% ;
+    height: 90px;
+}
+.header{
+    position: fixed;
+    background: white;
+    
+    z-index: 1;
+   
+    width: 100%;
+  
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 10%;
+   
+
+}
+.material-symbols-outlined{
+    margin-top: 2%;
+   margin-right: 15%;
+   color: rgb(0, 0, 0);
+   font-size: larger;
+  
+   
+}
+
+li{
+    margin-top: 2%;
+    text-decoration: line-through;
+    list-style: none;
+    text-decoration: none;
+    
+}
+.link{
+    text-decoration: none;
+    color: grey;
+}
+
