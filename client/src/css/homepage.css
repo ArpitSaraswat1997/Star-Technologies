@@ -124,3 +124,14 @@ h2{
     width: 100%;
 
 }
+
+
+ @media screen and (max-width: 1200px){
+    .para3 img{
+        width: 80%;
+    }
+    .part3-Data{
+        font-size: 10px;
+    }
+ }
+   

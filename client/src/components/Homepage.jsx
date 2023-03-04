@@ -37,7 +37,7 @@ export default function Homepage() {
             <h5 className='line'>.</h5>
             <h2>New LAUNCH</h2>
             </div>
-         <img  src={image2} alt="" />
+         <img className='part2-img' src={image2} alt="" />
          <br />
 
          <button className='knowmore-btn'>Know More</button>
